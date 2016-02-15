@@ -1,0 +1,115 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+div.header li{
+	margin-left: 150px;
+	display: inline;
+	font-family: georgia;
+}
+
+div.header {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1025px;
+	background-color: #56614F;
+	height: 30px;
+}
+
+div.all {
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1025px;
+}
+
+a {
+	color: #aabbaa;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #aabbaa;
+	text-decoration: underline;
+}
+
+body {
+	background-image: url("images/background.gif");
+}
+
+img.foto {
+	float: left;
+}
+
+div.paars {
+	background-color: #241333;
+	height: 210px;
+	color: #aabbaa;
+}
+
+div.paars ul {
+	text-align: center;
+}
+
+h1{
+	padding-top: 60px;
+	font-family: times;
+}
+
+div.text {
+	background-color: #56614F;
+	color: #aabbaa;
+}
+
+p {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: tahoma;
+}
+
+h2 {
+	margin-left: 10px;
+	margin-right: 10px;	
+}
+
+img.pumpkinpic {
+	float: right;
+	display: list-item;
+	position: right;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+/*
+  Ik wist neit hoe ik de images vast moest zetten,
+  Als je nu het scherm kleiner maakt verplaatsen de images
+  naar links. Ik heb het goed gezet voor mijn scherm maar
+  waarschijnlijk staan ze een beetje scheef op uw scherm.
+*/
+
+
+img.fixed {
+	position: fixed;
+	right: 300px;
+	bottom: 300px;
+	width: 128px;
+}
+
+img.head1 {
+	position: fixed;
+	right: 700px;
+	bottom: 550px;
+}
+
+img.head2 {
+	position: fixed;
+	right: 650px;
+	bottom: 375px;
+}
+
+img.head3 {
+	position: fixed;
+	right: 425px;
+	bottom: 600px;
+}

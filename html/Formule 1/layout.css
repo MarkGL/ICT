@@ -1,0 +1,86 @@
+body.ferrari{
+	background-color: red;
+	margin-left: 50 px;
+	color: black;
+	font-family: verdana;
+}
+body.mercedes{
+	background-color: grey;
+	font-family: verdana;
+	color: white;
+}
+body.williams{
+	background-color: black;
+	font-family: verdana;
+	color: grey;
+}
+body.index1{
+	background-color: black;
+	color: white;
+}
+body.sauber{
+	background-image: url("clouds.jpg");
+	background-color: #cccccc;
+	color: blue;
+}
+body.redbull{
+	color: lawngreen;
+	background-image: url("RBwallpaper.jpg");
+	background-color: #cccccc;
+}
+img.ferrari{
+    border:1px solid white;
+	margin:5px;
+}
+img.mercedes{
+	border: 1px solid red;
+	margin: 5px;
+}
+img.williams{
+	border: 1px solid silver;
+	margin: 5px;
+}
+a.mercedes{
+	color: white;
+}
+a.williams{
+	color: silver;
+}
+a.ferrari{
+	color: white;
+	text-decoration: none;
+}
+a.index1{
+	color: white;
+}
+a.redbull{
+	color: white;
+}
+a.sauber{
+	color: blue;
+}
+a.redbull:hover{
+	color: silver;
+}
+a.mercedes:hover{
+	color: red;
+}
+a.ferrari:hover{
+	color: blue;
+	text-decoration: underline; 
+}
+a.williams:hover{
+	color: red;
+}
+a.index1:hover{
+	color: silver;
+}
+a.sauber:hover{
+	color: navy;
+}
+h2{
+	color: red;
+}
+h3{
+	color: red;
+}

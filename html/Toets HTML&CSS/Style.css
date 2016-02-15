@@ -1,0 +1,103 @@
+
+
+li {
+	text-decoration: none;
+	text-align: horizontal;
+	display: inline;
+	margin-left: 30px;
+	text-align: center;
+}
+
+li.onderaan {
+	margin: 0px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a.onderaan {
+	color: red;
+	text-decoration: underline;
+	font-size: 125%;
+}
+
+a:hover {
+	color: white;
+	text-decoration: underline;
+}
+
+body {
+	background-image: url("background.gif");
+	margin: center;
+	padding: 0px;
+	color: white;
+	float: center;
+	margin-left: 650px;	
+}
+
+div.menu {
+	background-color: #ad2406;
+	width: 662px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	background-position: center;
+	height: 20px
+	margin-top: 50px;
+	font-family: Arial;
+}
+
+div.ondermenu {
+	background-color: #545245;
+	width: 662px;
+	background-position: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 125%;
+	text-align: center;
+	font-family: georgia;
+}
+
+div.text {
+	width: 640px;
+	background-color: white;
+	color: black;
+	padding-left: 20px;
+}
+
+img.logo {
+	margin-bottom: 10px;
+}
+
+img.een {
+	margin-top: 15px;
+}
+
+img.twee {
+	float: left;
+	padding: 4px;
+	border: gray 1px solid;
+	margin-right: 10px;
+	margin-bottom: 0px;
+}
+
+img.drie {
+	float: right;
+	margin-left: 50px;
+	margin-right: 2px;
+	border: gray 1px solid;
+	padding: 4px;
+}
+
+h1 {
+	font-family: Georgia;
+}
+
+p {
+	font-family: Tahoma;
+}
+
+ul {
+	font-family: Tahoma;
+}

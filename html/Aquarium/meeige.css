@@ -1,0 +1,86 @@
+body.een{
+	background-image: url("ye.jpg");
+	background-color: #cccccc;
+	color: lawngreen;
+	margin: 0px;
+	text-align: center; /* IE hack*/
+	font-family: cursive;
+}
+body.twee{
+	background-image: url("ye.jpg");
+	background-color: #cccccc;
+	color: lawngreen;
+	margin: 0px;
+	text-align: center; /* IE hack*/
+	font-family: cursive;
+}
+body.drie{
+	background-image: url("jaman.jpg");
+	background-color: #cccccc;
+	color: lawngreen;
+	margin: 0px;
+	text-align: center; /* IE hack*/
+	font-family: cursive;
+}
+div.een{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center; /* IE hack*/
+	background-color: rgba(600,400,200,0.3);
+	border:1px solid silver;
+}
+div.twee{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center; /* IE hack*/
+	background-color: rgba(600,400,200,0.3);
+	border:1px solid silver;
+}
+div.drie{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center; /* IE hack*/
+	background-color: rgba(200,100,130,0.3);
+	border:1px solid silver;
+}
+h1{
+	background-color: rgba(0,700,192,0.2);
+	padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+	margin:0px;
+	color: lightblue;
+	text-align: center;
+}
+h2{
+	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+a.een{
+	color: red;
+}
+a.een:hover{
+	color: lawngreen;
+}
+a.twee{
+	color: red;
+}
+a.twee:hover{
+	color: lawngreen;
+}
+p{
+	color: lightgreen;
+}
+a.nee{
+	color: yellow;
+}
+a.nee:hover{
+	color: red;
+}
+

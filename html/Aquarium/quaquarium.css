@@ -1,0 +1,38 @@
+body{
+	background-image: url("maxresdefault.jpg");
+	background-color: #cccccc;
+	color: blue;
+	margin: 0px;
+	text-align: center; /* IE hack*/
+	font-family: cursive;
+}
+div{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center; /* IE hack*/
+	background-color: rgba(255,255,255,0.5);
+	border:1px solid silver;
+}
+h1{
+	background-color: rgba(0,128,192,0.5);
+	padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+	margin:0px;
+	color: white;
+	text-align: center;
+}
+h2{
+	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+a{
+	color: red;
+}
+a:hover{
+	color: lawngreen;
+}

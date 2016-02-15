@@ -1,0 +1,133 @@
+﻿/* scooter planet */
+div.frame{
+	width: 800px;
+	background-color: rgba(255,255,224,0.8);
+	border:1px solid silver;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: verdana;
+	font-size: 14px;
+}
+div.dikkenee{
+	width: 800px;
+	background-color: rgba(500,500,500,0.7);
+	border:2px solid silver;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: verdana;
+	font-size: 14px;
+}
+body.scooter{
+	background-image: url("bg2.jpg");
+	background-color: rgba(255,255,224,0.8);
+	margin-left: 20px;
+	margin-right: 20px;
+	margin: 0px;
+}
+body{
+	background-image: url("Apple-logo.png");
+	background-color: rgba(999,999,999,0.8);
+	margin-left: 60px;
+	margin-right: 60px;
+	margin: 0px;
+}
+ul.bottom-menu li{
+	display: inline;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+ul.bottom-menu{
+	background-color: black;
+	text-align: center;
+	padding: 2px;
+	font-size: 11px;
+	margin: 0px;
+}
+ul.bottom-menu li a {
+	color: white;
+	text-decoration: none;
+}
+ul.bottom-menu li a:hover {
+	text-decoration: underline;
+}
+ul.beneden li{
+	display: inline;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+ul.beneden{
+	background-color: grey;
+	text-align: center;
+	padding: 2px;
+	font-size: 11px;
+	margin: 0px;
+	background-image: url("144186926059109.gif");
+}
+ul.beneden li a {
+	color: white;
+	text-decoration: none;
+}
+ul.beneden li a:hover {
+	text-decoration: underline;
+}
+ul.top-menu {
+	background-image: url("menu-bg.png");
+	text-align: center;
+	font-size: 11px;
+	margin: 0px;
+	padding-bottom: 150px;
+	padding-top: 150px;
+	background-repeat: no-repeat;
+}
+ul.top-menu li{
+	display: inline;
+	margin-right: 15px;
+	margin-left: 15px;
+	font-family: verdana;
+	font-size: 125%;
+}
+ul.top-menu li a {
+	color: #ff4444;
+	text-decoration: none;
+	font-weight: bold;
+	
+}
+ul.top-menu li a:hover {
+	text-decoration: #ff4444;
+}
+ul.top-menu {
+	background-image: url("menu-bg.png");
+	text-align: center;
+	font-size: 11px;
+	margin: 0px;
+	padding-bottom: 150px;
+	padding-top: 150px;
+	background-repeat: no-repeat;
+}
+ul.pot-menu {
+	background-image: url("144186926059109.gif");
+	text-align: center;
+	font-size: 12px;
+	margin: 0px;
+	padding-bottom: 150px;
+	padding-top: 150px;
+	background-repeat: no-repeat;
+	text-decoration: none;
+}
+ul.pot-menu li a {
+	color: black;
+	text-decoration: none;
+	font-weight: bold;	
+}
+ul.pot-menu li a:hover {
+	color: grey;
+	text-decoration: none;
+	font-weight: bold;	
+}
+ul.pot-menu li{
+	margin-right: 950px;
+	margin-top: 5px;
+	font-family: verdana;
+	font-size: 100%;
+	text-decoration: underline;
+}

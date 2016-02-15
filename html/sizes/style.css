@@ -1,0 +1,16 @@
+<picture>
+  <source srcset="ipun.jpg" media="(max-width: 375px)">
+  <source srcset="ipet.jpg" media="(max-width: 768px)">
+  <source srcset="pc.jpg">
+  <img src="img_flowers.jpg" alt="Flowers">
+</picture>
+/* For devices smaller than 400px: */
+body {
+    background-image: url('ipun.jpg'); 
+}
+/* For devices 400px and larger: */
+@media only screen and (min-device-width: 400px) {
+    body { 
+        background-image: url('pc.jpg'); 
+    }
+}

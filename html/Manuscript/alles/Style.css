@@ -1,0 +1,144 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+div.menu {
+	list-style-type: none;
+	display: inline;
+	text-align: left;
+	color: #c51;
+}
+
+div.menu2 {
+	list-style-type: none;
+	display: inline;
+	text-align: left;
+	color: #dda;
+}
+
+body.Manuscript {
+	background-image: url("marble3.jpg");
+	font-family: Verdana;
+}
+
+body.Mandarin {
+	background-image: url("sand1.jpg");
+	font-family: Verdana;
+}
+
+div.alles {
+	margin: auto;
+	padding: auto;
+	width: 1000px;
+}
+
+div.stukkie {
+	color: white;
+}
+
+p.p{
+	font-family: benegraphicregular;
+}
+
+div.text {
+	background-image: url("perkament.png"), url("perkament-footer.png"), url("perkament-header.png");
+	background-position: center top, center bottom, center top;
+	text-align: center;
+}
+
+div.text2 {
+	background-image: url("rice-paper.png"), url("rice-paper-footer.png"), url("rice-paper-header.png");
+	background-position: center top, center bottom, center top;
+	text-align: center;
+	border: 1px black solid;
+	width: 1000px;
+}
+
+@font-face {
+    font-family: 'benegraphicregular';
+    src: url('benegraphic-webfont.eot');
+    src: url('benegraphic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('benegraphic-webfont.woff2') format('woff2'),
+         url('benegraphic-webfont.woff') format('woff'),
+         url('benegraphic-webfont.ttf') format('truetype'),
+         url('benegraphic-webfont.svg#benegraphicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+img.logo {
+	position: absolute;
+	left: 1250px;
+	top: 40px;
+}
+
+p {
+	font-family: benegraphicregular;
+	text-align: left;
+	font-size: 200%;
+}
+
+li {
+	display: inline;
+	margin-right: 50px;
+}
+
+div.tietol {
+	padding-right: 200px;
+}
+
+#logo {
+	position: absolute;
+	left: 1100px;
+	top: 20px;
+}
+
+
+h1.haeen{
+	background-image: url("logo.png");
+	background-position: right;
+	background-repeat: no-repeat;
+	font-family: Arial;
+	font-size: 70px;
+	color: white;
+	text-align: left;
+}
+
+h1.haeentwee{
+	background-image: url("brush.png");
+	background-position: right;
+	background-repeat: no-repeat;
+	font-family: Arial;
+	font-size: 70px;
+	color: white;
+	text-align: left;
+}
+
+h3 {
+	font-family: Benegraphic;
+	text-align: left;
+	font-size: 225%;
+}
+
+h4.manuscript {
+	text-align: left;
+	font-family: Benegraphicregular;
+	font-size: 175%;
+}
+
+h4.mandarin {
+	text-align: left;
+	font-size: 125%;
+}
+
+a {
+	color: #c51;
+	text-decoration: none;
+}
+
+a:hover {
+	color: brown;
+	text-decoration: underline;
+}
+

@@ -1,0 +1,27 @@
+div {
+	font-size: 100px;
+	color: white;
+	font-family: great_vibesregular;
+}
+
+body {
+	text-align: center;
+	margin-top: 250px;
+}
+
+@font-face {
+    font-family: 'great_vibesregular';
+    src: url('greatvibes-regular-webfont.eot');
+    src: url('greatvibes-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('greatvibes-regular-webfont.woff2') format('woff2'),
+         url('greatvibes-regular-webfont.woff') format('woff'),
+         url('greatvibes-regular-webfont.ttf') format('truetype'),
+         url('greatvibes-regular-webfont.svg#great_vibesregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+script {
+	display: none;
+}

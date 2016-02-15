@@ -1,0 +1,115 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul.text1 {
+	color: white;
+}
+
+div.page {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1025px;
+}
+div.header {
+	background-image: url("images/header_bg.png");
+	height: 100px;
+	text-align: center;
+}
+
+div.banner {
+	padding-top: 10px;
+	background-image: url("images/banner_bg.png");
+	font-family: tahoma;
+	font-size: 10pt;
+	color: white;
+	line-height: 155%;
+	padding-bottom: 100px;
+}
+
+div.header li {
+	display: inline;
+}
+
+img.logo {
+	float: left;
+}
+
+div.header ul {
+	padding-top: 40px;
+	margin-left: 300px;
+}
+
+div.header a {
+	font-family: arial;
+	color: #385064;
+	text-decoration: none;
+	margin-left: 20px;
+}
+
+div.header a:hover {
+	color: #81A8BC;
+}
+
+img.banner {
+	float: left;
+	margin-top: 10px;
+}
+
+h1 {
+	font-size: 20pt;
+	font-family: tahoma;
+	font-weight: normal;
+}
+
+img.een {
+	float: top-left;
+}
+
+img.twee {
+	float: top-center;
+}
+
+div.professional  {
+	width: 300px;
+	float: left;
+	line-height: 155%;
+	font-family: Tahoma;
+	font-size: 15pt;
+	color: #555555;
+}
+
+div.awesome {
+	width: 300px;
+	float: left;
+	margin-left: 75px;
+	line-height: 155%;
+	font-family: Tahoma;
+	font-size: 15pt;
+	color: #555555;
+}
+
+div.overall {
+	width: 300px;
+	float: right;
+	line-height: 155%;
+	font-family: Tahoma;
+	font-size: 15pt;
+	color: #555555;
+}
+
+div.balkje {
+	background-image: url("images/footer_bg.png");
+	margin-top: 550px;
+
+}
+
+div.balkje ul {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 9pt;
+	font-family: Tahoma;
+	color: white;
+	text-align: center;
+}
